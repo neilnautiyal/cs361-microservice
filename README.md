@@ -44,4 +44,4 @@ communication contract that demonstrates how to use the microservice
 2. Call the microservice using a call such as the one demonstrated above to request data from the microservice
 3. Use `socket.recv_string()` to actually receive the data from the microservice's response
 4. The example call above demonstrates how to use `socket.recv_string()` to RECEIVE data from the microservice. 
-   The example shows both how to REQUEST and RECEIVE data from the microservice.
+   The example above shows both how to REQUEST and RECEIVE data from the microservice.
