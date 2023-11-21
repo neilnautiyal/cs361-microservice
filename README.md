@@ -48,4 +48,4 @@ communication contract that demonstrates how to use the microservice
 
 
 ## C - UML Diagram
-![microservice UML](https://github.com/neilnautiyal/cs361-microservice/assets/75712709/4586234f-99b5-4883-b84d-f89992e350ba)
+![microservice UML (1)](https://github.com/neilnautiyal/cs361-microservice/assets/75712709/9f74bd41-0163-445c-8410-b85d898c298e)
