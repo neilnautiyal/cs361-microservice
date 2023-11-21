@@ -45,3 +45,7 @@ communication contract that demonstrates how to use the microservice
 3. Use `socket.recv_string()` to actually receive the data from the microservice's response
 4. The example call above demonstrates how to use `socket.recv_string()` to RECEIVE data from the microservice. 
    The example above shows both how to REQUEST and RECEIVE data from the microservice.
+
+
+## C - UML Diagram
+![microservice UML](https://github.com/neilnautiyal/cs361-microservice/assets/75712709/4586234f-99b5-4883-b84d-f89992e350ba)
